@@ -30,5 +30,5 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasjoshi123456" alt="vishwasjoshi123456" /></a> </p>
 
-<img align="right" alt="Coding" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif">
+<img align="center" alt="Coding" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif">
 <img align="center" alt="Coding" src="https://2.bp.blogspot.com/-HPvsFc4GN5c/Xl6vbG1u5jI/AAAAAAAAOuo/LBRvLnDFqa4tESl64weBBCF568CTVJTAACLcBGAsYHQ/s1600/Podcast_Android_Hero_4209x1253_25%2525.gif">
