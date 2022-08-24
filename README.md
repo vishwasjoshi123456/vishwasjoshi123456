@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vishwas Joshi</h1>
 <h3 align="center">A passionate Android/Native developer from India</h3>
+<img align="right" alt="Coding" width="400" src=""C:\Users\dell\Pictures\saloni\1_IRGHmiGsa16stedQvIaZfw.gif"">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwasjoshi123456&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasjoshi123456" /> </p>
 
