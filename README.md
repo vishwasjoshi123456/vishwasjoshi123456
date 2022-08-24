@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vishwasjoshi123456&label=Profile%20views&color=0e75b6&style=flat" alt="vishwasjoshi123456" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasjoshi123456" alt="vishwasjoshi123456" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/@vishutechno" target="blank"><img src="https://img.shields.io/twitter/follow/@vishutechno?logo=twitter&style=for-the-badge" alt="@vishutechno" /></a> </p>
 
 - 🌱 I’m currently learning **Android/Native Development**
@@ -27,3 +25,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vishwasjoshi123456&" alt="vishwasjoshi123456" /></p>
 
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vishwasjoshi123456" alt="vishwasjoshi123456" /></a> </p>
